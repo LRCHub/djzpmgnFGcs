@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Rocky",
+  "base_artist": "Still Woozy",
+  "createdAt": "2026-02-25T03:15:16.725839Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hearts On Fire (From \"Rocky IV\")",
+      "artist": "John Cafferty",
+      "has_synced": true,
+      "path": "select/01_Hearts_On_Fire_(From__Rocky_IV_)_John_Cafferty.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rocky",
+      "artist": "Dickey Lee",
+      "has_synced": true,
+      "path": "select/02_Rocky_Dickey_Lee.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rocky Mountain High",
+      "artist": "John Denver",
+      "has_synced": true,
+      "path": "select/03_Rocky_Mountain_High_John_Denver.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rocky Mountain High",
+      "artist": "John Denver",
+      "has_synced": true,
+      "path": "select/04_Rocky_Mountain_High_John_Denver.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Groupie Love (feat. A$AP Rocky)",
+      "artist": "Lana Del Rey feat. A$AP Rocky",
+      "has_synced": true,
+      "path": "select/05_Groupie_Love_(feat._A$AP_Rocky)_Lana_Del_Rey_feat._A$AP_Rocky.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Groupie Love (feat. A$AP Rocky)",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/06_Groupie_Love_(feat._A$AP_Rocky)_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Summer Bummer (feat. A$AP Rocky & Playboi Carti)",
+      "artist": "Lana Del Rey feat. A$AP Rocky & Playboi Carti",
+      "has_synced": true,
+      "path": "select/07_Summer_Bummer_(feat._A$AP_Rocky_&_Playboi_Carti)_Lana_Del_Rey_feat._A$AP_Rocky_&_Playboi_Carti.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Summer Bummer (feat. A$AP Rocky & Playboi Carti)",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/08_Summer_Bummer_(feat._A$AP_Rocky_&_Playboi_Carti)_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "HANDGUN (feat. A$AP Rocky)",
+      "artist": "YG feat. A$AP Rocky",
+      "has_synced": true,
+      "path": "select/09_HANDGUN_(feat._A$AP_Rocky)_YG_feat._A$AP_Rocky.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Handgun (Feat. A$ap Rocky)",
+      "artist": "YG",
+      "has_synced": true,
+      "path": "select/10_Handgun_(Feat._A$ap_Rocky)_YG.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "T.D (feat. Tierra Whack, A$AP Rocky & Tyler, The Creator)",
+      "artist": "Lil Yachty feat. Tierra Whack, A$AP Rocky & Tyler, The Creator",
+      "has_synced": true,
+      "path": "select/11_T.D_(feat._Tierra_Whack,_A$AP_Rocky_&_Tyler,_The_Creator)_Lil_Yachty_feat._Tierra_Whack,_A$AP_Rocky_&_Tyler,_The_Creator.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "T.D (feat. A$AP Rocky, Tyler, The Creator, & Tierra Whack)",
+      "artist": "Lil Yachty",
+      "has_synced": true,
+      "path": "select/12_T.D_(feat._A$AP_Rocky,_Tyler,_The_Creator,_&_Tierra_Whack)_Lil_Yachty.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Love$ick (feat. A$AP Rocky)",
+      "artist": "Mura Masa feat. A$AP Rocky",
+      "has_synced": true,
+      "path": "select/13_Love$ick_(feat._A$AP_Rocky)_Mura_Masa_feat._A$AP_Rocky.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Love$ick (feat. A$AP Rocky)",
+      "artist": "Mura Masa",
+      "has_synced": true,
+      "path": "select/14_Love$ick_(feat._A$AP_Rocky)_Mura_Masa.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Take 1 (feat. A$AP Rocky)",
+      "artist": "Main Attrakionz",
+      "has_synced": false,
+      "path": "select/15_Take_1_(feat._A$AP_Rocky)_Main_Attrakionz.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Burning Heart (From Rocky IV) (2006 Digital Remaster)",
+      "artist": "Survivor",
+      "has_synced": true,
+      "path": "select/16_Burning_Heart_(From_Rocky_IV)_(2006_Digital_Remaster)_Survivor.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Medley: the Recruiting Sergeant / the Rocky Road to Dublin / Galway Races",
+      "artist": "The Pogues",
+      "has_synced": false,
+      "path": "select/17_Medley__the_Recruiting_Sergeant___the_Rocky_Road_to_Dublin___Galway_Races_The_Pogues.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Medley: The Recruiting Sergeant\u0000The Rocky Road To Dublin\u0000The Galway Races (Traditional)",
+      "artist": "The Pogues",
+      "has_synced": false,
+      "path": "select/18_Medley__The_Recruiting_Sergeant\u0000The_Rocky_Road_To_Dublin\u0000The_Galway_Races_(Tradi_The_Pogues.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rocky",
+      "artist": "Still Woozy",
+      "has_synced": false,
+      "path": "select/pl_01_Rocky_Still_Woozy.txt"
+    }
+  ]
+}
